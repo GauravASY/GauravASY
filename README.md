@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Video Summarization using Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently building **AI products**
 
-- 💬 Ask me about **MERN and Java**
+- 💬 Ask me about **ML, AI, MERN, Golang and Python**
 
 - 📫 Reach out to me @ **yadavgaurav821997@gmail.com**
 

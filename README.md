@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravasy&label=Profile%20views&color=0e75b6&style=flat" alt="gauravasy" /> </p>
 
-- 🔭 I’m currently working on **Video Summarization using Machine Learning**
+- 🔭 I’m currently working on **Fine-tuning pre-trained models for real use-cases**
 
 - 🌱 I’m currently building **AI products**
 
-- 💬 Ask me about **ML, AI, MERN, Golang and Python**
+- 💬 Ask me about **ML, AI, MERN, Golang, and Python**
 
-- 📫 Reach out to me @ **yadavgaurav821997@gmail.com**
+- 📫 Reach out to me @ **gaurvayadav199808@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -12,6 +12,7 @@
 
 ### Let's build something together 🤝🏼
 Always down to `collaborate`, chat about ML/AI, or just exchange ideas. Hit me up if you want to work on something together or talk tech.
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauravyadavdeveloper/)
 [![GitHub Gaurav](https://img.shields.io/github/followers/GauravASY?label=follow&style=social)](https://github.com/GauravASY)
 [![Email](https://img.shields.io/badge/Email-gauravyadav199808%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:gauravyadav199808@gmail.com)

@@ -1,18 +1,14 @@
-<h1 align="center">Hi!! I'm Gaurav Yadav</h1>
-<h3 align="center">A passionate, detail-oriented Full-stack developer from India</h3>
+<h1 align="center">Hi!! I'm Gaurav</h1>
+<h3 align="center">A passionate, detail-oriented ML Engineer</h3>
 <img align="right" alt = "coding" width = "400" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Z3M3dybWdzc3psdnVvZjNsa3BnNWgwaG16MDJrN3RtN2Z6c3lqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravasy&label=Profile%20views&color=0e75b6&style=flat" alt="gauravasy" /> </p>
+What I'm up to
+Right now, I'm deep into fine-tuning pre-trained models and building AI products that actually solve real problems. I love exploring new ideas in the AI space and turning them into working projects.
+I'm someone who learns by doing. Every project teaches me something new, and I'm always excited to try out the latest tech. The best part? Connecting with other builders, brainstorming wild ideas, and seeing what we can create together.
 
--  I’m currently working on **Fine-tuning pre-trained models for real use-cases**
-
--  I’m currently building **AI products**
-
--  Ask me about **ML, AI, MERN, Golang, and Python**
-
--  Reach out to me @ **gaurvayadav199808@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's build something</h3>
+Always down to collaborate, chat about ML/AI, or just exchange ideas. Hit me up if you want to work on something together or talk tech.
 <p align="left">
 <a href="https://www.leetcode.com/gaurav_asy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurav_asy" height="30" width="40" /></a>
 </p>
